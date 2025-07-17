@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mordavid-externalattacker-mcp-badge.png)](https://mseep.ai/app/mordavid-externalattacker-mcp)
+
 # ExternalAttacker MCP Server
 
 ![ExternalAttacker-MCP](/images/ExternalAttacker-MCP-Banner.png)
